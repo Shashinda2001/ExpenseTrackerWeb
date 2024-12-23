@@ -30,6 +30,20 @@ body {
     color: #fff;
 }
 
+.e-bigger{
+    font-size:x-large;
+}
+
+.btn:focus, .btn:active{
+    outline:none !important;
+    box-shadow:none;
+}
+
+.no-a-decoration, .no-a-decoration:hover{
+    text-decoration:none;
+    color:inherit;
+}
+
 /*radio buttons*/
 /*////*/
 .e-btn-group.custom-rbt-group {
